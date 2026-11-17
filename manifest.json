@@ -1,0 +1,17 @@
+{
+  "name": "Mi libreta Yolis",
+  "short_name": "Libreta Yolis",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#211c22",
+  "theme_color": "#211c22",
+  "icons": [
+    {
+      "src": "./icon-yolis-agenda.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
